@@ -8,6 +8,8 @@ https://discord.gg/adhH2ey8by
     * Custom and Detailed 3D model
     * Several Real World Liveries
     * In Depth Custom Systems
+![image](https://github.com/Caffeine-Simulations/.github/assets/75970722/17e6d4db-8a4d-4825-808b-56910fc016ad)
+
 * Asset Pack
     * Custom Squadron Painted Static objects
     * The Danish Assault Tuk Tuk 
